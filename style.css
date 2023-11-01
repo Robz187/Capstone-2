@@ -1,0 +1,72 @@
+.container
+{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+
+}
+.profile
+{
+  border-radius: 40%;
+  height: 100px;
+}
+.profile-picture
+{
+height: 400px;
+}
+.background
+{ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Text
+{
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+ font-family: 'Noto Serif', serif;
+  display: inline;
+  justify-content: center;
+  align-items: center;
+}
+.Anschrift 
+{
+  justify-content: center;
+  align-items: center;
+  display: inline-flex;
+}
+body
+{
+  font-family: 'Libre Baskerville', serif;
+  font-family: 'Noto Serif', serif;
+  font-weight: bold;
+  background-color: #CDF5FD ;
+}
+.bild2 
+{
+  float: left;
+}
+.Testemonial
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.h2
+{
+  font-size: 2.3rem;
+  
+}
+.Kontakt
+{
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Footer
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
